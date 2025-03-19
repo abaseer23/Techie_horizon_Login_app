@@ -1,7 +1,7 @@
 ## Prerequisites
 - JDK 1.8 or later
 - Maven 3 or later
-- MySQL 5.6 or later..
+- MySQL 5.6 or later
 
 ## Technologies 
 - Spring MVC
@@ -31,6 +31,6 @@ Then look for the file :
 	sonar.junit.reportsPath=target/surefire-reports
 	sonar.jacoco.reportPath=target/jacoco.exec
 	sonar.java.binaries=src/main/java/com/visualpathit/account/
-     ````
+     ```
 
 
